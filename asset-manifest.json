@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pathfinding-algo-visualizer/static/css/main.2d729ac7.chunk.css",
+    "main.js": "/pathfinding-algo-visualizer/static/js/main.a525e189.chunk.js",
+    "main.js.map": "/pathfinding-algo-visualizer/static/js/main.a525e189.chunk.js.map",
+    "runtime-main.js": "/pathfinding-algo-visualizer/static/js/runtime-main.083498b9.js",
+    "runtime-main.js.map": "/pathfinding-algo-visualizer/static/js/runtime-main.083498b9.js.map",
+    "static/js/2.652a11ad.chunk.js": "/pathfinding-algo-visualizer/static/js/2.652a11ad.chunk.js",
+    "static/js/2.652a11ad.chunk.js.map": "/pathfinding-algo-visualizer/static/js/2.652a11ad.chunk.js.map",
+    "index.html": "/pathfinding-algo-visualizer/index.html",
+    "precache-manifest.4b1c49d13432824588d00fcf5cc468b3.js": "/pathfinding-algo-visualizer/precache-manifest.4b1c49d13432824588d00fcf5cc468b3.js",
+    "service-worker.js": "/pathfinding-algo-visualizer/service-worker.js",
+    "static/css/main.2d729ac7.chunk.css.map": "/pathfinding-algo-visualizer/static/css/main.2d729ac7.chunk.css.map"
+  }
+}
