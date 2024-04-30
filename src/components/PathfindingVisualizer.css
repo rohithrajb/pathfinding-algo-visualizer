@@ -1,0 +1,24 @@
+.container {
+	margin: 30px auto;
+	overflow: auto;
+	min-height: 300px;
+	border: 2px solid dimgray;
+	padding: 30px;
+	border-radius: 5px;
+}
+
+.button-container {
+    margin: 30px;
+}
+
+.grid-container {
+  margin: auto;
+}
+
+.grid {
+  white-space: pre;
+}
+
+button {
+  margin: 2px;
+}
